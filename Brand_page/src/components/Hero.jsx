@@ -4,9 +4,8 @@ const HeroSection = () => {
             <div className="hero-content">
                 <h1>YOUR FEET DESERVES THE BEST</h1>
                 <p>
-                    YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR 
-                    SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR 
-                    SHOES.
+                    We design shoes that elevate your style while delivering all-day support. Whether you're conquering the boardroom, the trail, or the city streets, our footwear is built to go wherever life takes you.
+Explore our collection of premium sneakers, formal shoes, and outdoor gear — all engineered with precision, passion, and performance in mind.
                 </p>
 
                 <div className="hero-btn">
