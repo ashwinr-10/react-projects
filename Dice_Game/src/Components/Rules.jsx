@@ -5,11 +5,15 @@ const Rules = () => {
         <RulesContainer>
             <h2>How to play Dice Game</h2>
             <div className="rules">
-                <p>Select any number</p>
-                <p>Click on dice image</p>
-                <p>after click on  dice  if selected number is equal to dice number you will get same point as dice </p>
-                <p>if you get wrong guess then 1 point will be deducted </p>
+                <strong>1. Pick a Number</strong>
+                <p>- Choose any number between 1 and 6.</p>
+                <strong>2. Roll the Dice</strong>
+                <p>- Click on the dice image to roll it.</p>
+                <strong>3. Scoring Rules</strong>
+                <p>- If your selected number matches the dice roll, you earn points equal to the dice number.</p>
+                <p>- If your guess is incorrect, 1 point will be deducted from your score.</p>
              </div>
+
         </RulesContainer>
     );
 };
